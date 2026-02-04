@@ -42,7 +42,7 @@ The input file must be a plain-text FASTA file containing one or more protein se
 Example (input_proteins.fasta)
 
 
->NP_000577.2 interleukin-2 precursor
+ >NP_000577.2 interleukin-2 precursor
 MYRMQLLSCIALSLALVTNSAPTSSSTKKTQLQLEHLLLDLQMILNGINNYKNPKLTRMLTFKFYMPKKATELKHLQCLEEELKPLEEVLNLAQSKNFHLRPRDLISNINVIVLELKGSETTFMCEYADETATI
 
 
