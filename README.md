@@ -25,7 +25,8 @@ Uses Biopython ProtParam, a widely accepted bioinformatics library
 
 
 📂 Repository Structure
-.
+
+
 ├── physicochemical_profiling.py   # Main analysis script
 
 ├── input_proteins.fasta           # Input FASTA file (example)
@@ -40,8 +41,8 @@ The input file must be a plain-text FASTA file containing one or more protein se
 
 Example (input_proteins.fasta)
 
->NP_000577.2 interleukin-2 precursor
 
+>NP_000577.2 interleukin-2 precursor
 MYRMQLLSCIALSLALVTNSAPTSSSTKKTQLQLEHLLLDLQMILNGINNYKNPKLTRMLTFKFYMPKKATELKHLQCLEEELKPLEEVLNLAQSKNFHLRPRDLISNINVIVLELKGSETTFMCEYADETATI
 
 
@@ -83,8 +84,11 @@ This script is particularly useful for comparing wild-type vs mutant proteins du
 
 🚀 Applications
 Protein engineering and mutation analysis
+
 Recombinant protein expression planning
+
 Solubility and stability screening
+
 Bioinformatics training and assessments
 
 
